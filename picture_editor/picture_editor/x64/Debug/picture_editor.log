@@ -1,0 +1,47 @@
+﻿  Processing.cpp
+  picture_editor.cpp
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(42,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(42,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(55,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(55,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(57,48): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(57,33): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(58,56): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(58,36): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(58,101): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(58,86): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(60,56): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(60,36): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(80,16): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(81,16): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(83,21): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(83,16): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(92,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(92,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(94,36): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(94,27): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(95,56): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(95,36): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(95,89): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(95,80): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(97,56): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(97,36): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(104,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(104,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(225,51): error C2572: 'processing::meanFilter' : redéfinition de l'argument par défaut : paramètre 1
+      C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.h(16,10):
+      voir la déclaration de 'processing::meanFilter'
+  
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(225,74): error C2572: 'processing::meanFilter' : redéfinition de l'argument par défaut : paramètre 2
+      C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.h(16,10):
+      voir la déclaration de 'processing::meanFilter'
+  
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(252,53): error C2572: 'processing::medianFilter' : redéfinition de l'argument par défaut : paramètre 1
+      C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.h(15,10):
+      voir la déclaration de 'processing::medianFilter'
+  
+C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.cpp(252,76): error C2572: 'processing::medianFilter' : redéfinition de l'argument par défaut : paramètre 2
+      C:\Users\thoma\source\repos\picture_editor\picture_editor\Processing.h(15,10):
+      voir la déclaration de 'processing::medianFilter'
+  
+  Génération de code en cours...
